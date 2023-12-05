@@ -1,6 +1,6 @@
 ## Hi, I'm Rohan Kumar
 
-I am a sophomore at Boston University College of Engineering, studying Computer Engineering with a concentration in Machine Learning and a minor in Computer Science.
+I am a junior at Boston University College of Engineering, studying Computer Engineering.
 
 <!--
 **rohankumar-1/rohankumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
